@@ -1,1 +1,1 @@
-# SoC-Blockcahin
+So uptil now i've learned the basics of blockchain; what a blockcahon ledger is, what hash is, how is it taht we are able to securely do crypto transactions safely using this(theoretically); installed the softwares required to create my own ledger, etc.
